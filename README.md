@@ -73,14 +73,12 @@
 <br/>
 
 # 📊 GitHub Statistics
-<p align="center">
-    <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Summary" src="https://github-readme-stats.vercel.app/api?username=JIAJUNKK&theme=default&show_icons=true&hide_border=true&count_private=true" height="192px" width="49.5%"/></a>
-</p>
+<a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Summary" src="https://github-readme-stats.vercel.app/api?username=JIAJUNKK&theme=default&show_icons=true&hide_border=true&count_private=true" height="70%" width="49.5%"/></a>
 
-<p algin="center">
-  <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiajunkk&theme=default&show_icons=true&hide_border=true&layout=compact" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiajunkk&theme=default&hide_border=true" height="192px" width="49.5%"/></a>
-</p>
+<a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiajunkk&theme=default&show_icons=true&hide_border=true&layout=compact" height="70%" width="49.5%"/></a>
+  
+<a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiajunkk&theme=default&hide_border=true" height="70%" width="49.5%"/></a>
+
 
 
 
