@@ -32,7 +32,7 @@
 
 </br>
 <hr/>
-</br>
+<br/>
 
 # ⌨️ Languages and Frameworks
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -53,6 +53,9 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
+</br>
+<hr/>
+<br/>
 
 | # | 📈 Top Repositories 
 |:-:|     :---:    
@@ -65,7 +68,7 @@
   <a href="https://github.com/JIAJUNKK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </h1>
 
-<br/>
+</br>
 <hr/>
 <br/>
 
