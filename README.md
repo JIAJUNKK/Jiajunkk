@@ -5,7 +5,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a software engineering student @ <b>Lancaster University</b> 」
+    「 🌱 I am a software engineering student @ <b>Lancaster University</b> 」
     <br> 2023- 2025
     <br>
     <br>
@@ -20,9 +20,16 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="jiajunkk" />
  </a> 
 </p>
+
+</br></br></br></br>
+# About me 
+✉️ &emsp; Reach me at<a href="mailto:kongjiajun040103@gmail.com">kongjiajun040103@gmail.com</a><br>
+💙 &emsp; I play basketball and piano<br>
+🔭 &emsp; I like to code and learn new knowledge
+
 </br></br></br></br>
 
-## ⌨️ Languages and Frameworks
+# ⌨️ Languages and Frameworks
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,7 +38,6 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySql](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -41,17 +47,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-<!--
-**JIAJUNKK/Jiajunkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</br></br></br></br>
+| # | Repositories 
+|:-:|     :---:    
+| 1 | [7Mantap](https://github.com/JIAJUNKK/7Mantap)
+| 2 | [HealthBuddy](https://github.com/JIAJUNKK/HealthBuddy)
+| 3 | [Instagram Follower Tracker](https://github.com/JIAJUNKK/people_unfollowing_on_instagram)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <a href="https://github.com/JIAJUNKK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</h1>
+
+
+
