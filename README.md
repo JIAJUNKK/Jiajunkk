@@ -5,7 +5,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 🌱 I am a software engineering student @ <b>Lancaster University</b> 」
+    「 🌱 I am a software engineering student @ <b>Lancaster University</b> 🌱 」
     <br> 2023- 2025
     <br>
     <br>
@@ -21,13 +21,18 @@
  </a> 
 </p>
 
-</br></br></br></br>
-# About me 
+</br>
+<hr/>
+</br>
+
+# ✨ About me 
 ✉️ &emsp; Reach me at<a href="mailto:kongjiajun040103@gmail.com">kongjiajun040103@gmail.com</a><br>
 💙 &emsp; I play basketball and piano<br>
 🔭 &emsp; I like to code and learn new knowledge
 
-</br></br></br></br>
+</br>
+<hr/>
+</br>
 
 # ⌨️ Languages and Frameworks
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
@@ -48,16 +53,33 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-</br></br></br></br>
-| # | Repositories 
+
+| # | 📈 Top Repositories 
 |:-:|     :---:    
 | 1 | [7Mantap](https://github.com/JIAJUNKK/7Mantap)
 | 2 | [HealthBuddy](https://github.com/JIAJUNKK/HealthBuddy)
 | 3 | [Instagram Follower Tracker](https://github.com/JIAJUNKK/people_unfollowing_on_instagram)
+| 4 | [Jiajun's Readme.md](https://github.com/JIAJUNKK/Jiajunkk)
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://github.com/JIAJUNKK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </h1>
+
+<br/>
+<hr/>
+<br/>
+
+# 📊 GitHub Statistics
+<p align="center">
+    <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Summary" src="https://github-readme-stats.vercel.app/api?username=JIAJUNKK&theme=default&show_icons=true&hide_border=true&count_private=true" height="192px" width="49.5%"/></a>
+</p>
+
+<p algin="center">
+  <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiajunkk&theme=default&show_icons=true&hide_border=true&layout=compact" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/JIAJUNKK"><img alt="Jiajun's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jiajunkk&theme=default&hide_border=true" height="192px" width="49.5%"/></a>
+</p>
+
+
 
 
 
