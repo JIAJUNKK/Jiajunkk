@@ -62,7 +62,6 @@
 | 1 | [7Mantap](https://github.com/JIAJUNKK/7Mantap)
 | 2 | [HealthBuddy](https://github.com/JIAJUNKK/HealthBuddy)
 | 3 | [Instagram Follower Tracker](https://github.com/JIAJUNKK/people_unfollowing_on_instagram)
-| 4 | [Jiajun's Readme.md](https://github.com/JIAJUNKK/Jiajunkk)
 
 <h1 align="left">
   <a href="https://github.com/JIAJUNKK?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
