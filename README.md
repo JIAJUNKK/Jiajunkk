@@ -27,8 +27,6 @@
 
 # ✨ About me 
 ✉️ &emsp; Reach me at <a href="mailto:kongjiajun040103@gmail.com">kongjiajun040103@gmail.com</a><br>
-💙 &emsp; I play basketball and piano<br>
-🔭 &emsp; I like to code and learn new knowledge
 
 </br>
 <hr/>
