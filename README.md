@@ -5,8 +5,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 🌱 I am a software engineering student @ <b>Lancaster University</b> 🌱 」
-    <br> 2023- 2025
+    「 Software Engineer | Full Stack Developer 」
     <br>
     <br>
   </samp>
