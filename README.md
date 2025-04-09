@@ -5,7 +5,9 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Software Engineer | Full Stack Developer 」
+    「 Software Engineer 
+    <br>
+    Full Stack Developer 」
     <br>
     <br>
   </samp>
